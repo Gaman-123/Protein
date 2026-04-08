@@ -1,0 +1,11 @@
+id,sequence_length,stability_index,charge,hydrophobicity,result_class
+P001,154,0.85,1.2,-0.45,stable
+P002,230,0.42,-0.5,0.12,unstable
+P003,112,0.91,2.1,-0.89,stable
+P004,402,0.31,0.2,1.34,unstable
+P005,189,0.77,-1.2,-0.11,stable
+P006,256,0.61,0.8,0.44,stable
+P007,98,0.22,3.1,1.56,unstable
+P008,312,0.88,-0.4,-0.67,stable
+P009,145,0.45,0.9,0.23,unstable
+P010,221,0.72,1.5,-0.32,stable
